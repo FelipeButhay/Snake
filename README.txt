@@ -1,4 +1,4 @@
-Antes de ejecutar el archivo "chess.py":
+Antes de ejecutar el archivo "snake.py":
 - Instalar Python 3.12
 - Instalar pygame con este comando en la consola CMD "python -m pip install -U pygame==2.5.2 --user".
   
